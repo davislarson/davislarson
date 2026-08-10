@@ -8,7 +8,7 @@ Early-career **Software Engineer & Data Professional** building full-stack appli
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -41,7 +41,7 @@ Early-career **Software Engineer & Data Professional** building full-stack appli
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Adventure Works Data Pipeline & Warehouse](https://github.com/davislarson/REPO_NAME_HERE)
 Full-stack data pipeline and Snowflake warehouse ingesting from PostgreSQL, MongoDB, and a REST API. Built an 18-model dbt architecture (base/staging/intermediate) with 29 automated tests, orchestrated with Prefect, deployed via CI/CD, and exposed to AI agents through an MCP server.

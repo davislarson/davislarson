@@ -1,12 +1,10 @@
-# Hi, I'm Davis Larson 👋
+# Hi, I'm Davis Larson
 
-Early-career **Software Engineer & Data Professional** building full-stack applications and data pipelines. Currently pursuing my Master of Information Systems Management at BYU's Marriott School of Business (GPA 4.00/3.98).
+Early-career **Software Engineer & Data Professional** building full-stack applications and data pipelines. Currently pursuing my Master of Information Systems Management at BYU's Marriott School of Business.
 
 - 💻 Building automation, identity, and infrastructure tools at BYU's Office of IT
 - 📊 Learning and applying data engineering + ML (Snowflake, dbt, Python, scikit-learn)
 - 🌱 Currently exploring how AI agents can interface with data warehouses via MCP
-- 🌍 Fluent in French
-- 📫 Reach me at davislarson01@gmail.com or [LinkedIn](https://linkedin.com/in/davis-larson)
 
 ---
 
